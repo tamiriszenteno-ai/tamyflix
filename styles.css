@@ -1,0 +1,33 @@
+body {
+    color: black;
+    background: whitesmoke;
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px plum;
+    padding: 20px;
+    font-size: 30px;
+    color: plum;
+}
+
+section {
+    background: plum;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.camada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
